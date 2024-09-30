@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=F1shS0up)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=F1shSup&theme=dracula&border_radius=10)](https://git.io/streak-stats)
 <!--
 **F1shS0up/F1shS0up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
